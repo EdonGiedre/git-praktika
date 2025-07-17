@@ -1,0 +1,5 @@
+Vardas: Giedrė
+El. paštas: giedre.romberge@student.edon.lt
+Miestas: Kaunas
+
+Pridėtas kontaktų failas
