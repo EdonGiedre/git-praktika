@@ -2,6 +2,9 @@ Vardas: Giedrė
 El. paštas: giedre.romberge@student.edon.lt
 Telefono numeris: 061100000
 Miestas: Kaunas
+Kažkas: Čia reikia pridėta kažką
+
 
 19:25 Pridėtas kontaktų failas
 19:26 Papildyta kontaktų informacija
+19:33 Atnaujinta kontaktų informacija
